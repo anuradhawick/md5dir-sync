@@ -1,6 +1,6 @@
 {
   "name": "md5dir-sync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Synchronous library to get folder hash",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "md5-file": "^3.2.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anuradhawick/md5dir-sync.git"
+  },
+  "homepage": "https://github.com/anuradhawick/md5dir-sync.git"
 }
