@@ -9,8 +9,6 @@
   "author": "Anuradha Wickramarachchi",
   "license": "ISC",
   "dependencies": {
-    "async-each": "^1.0.1",
-    "md5-dir": "^0.1.0",
     "md5-file": "^3.2.3"
   }
 }
