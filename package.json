@@ -1,0 +1,16 @@
+{
+  "name": "md5dir-sync",
+  "version": "1.0.0",
+  "description": "Synchronous library to get folder hash",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anuradha Wickramarachchi",
+  "license": "ISC",
+  "dependencies": {
+    "async-each": "^1.0.1",
+    "md5-dir": "^0.1.0",
+    "md5-file": "^3.2.3"
+  }
+}
