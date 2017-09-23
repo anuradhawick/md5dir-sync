@@ -1,7 +1,7 @@
-var fs = require('fs')
-var path = require('path')
-var crypto = require('crypto')
-var md5File = require('md5-file')
+const fs = require('fs')
+const path = require('path')
+const crypto = require('crypto')
+const md5File = require('md5-file')
 
 function md5Dir(dirname) {
     const files = fs.readdirSync(dirname);
